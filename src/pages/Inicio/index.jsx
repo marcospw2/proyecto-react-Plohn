@@ -12,7 +12,7 @@ import LoadingSpinner from '../../components/LoadingSpinner/';
 
 function Inicio() {
 
-  document.title = 'Markitos Ingenieria - Inicio';
+  document.title = 'Electronica Markitos - Inicio';
 
 
   if (promo3 === undefined) {
@@ -57,7 +57,7 @@ function Inicio() {
         <article>
           <div className="px-4 py-2 my-5 text-center d-lg-none d-xl-none">
             <img className="d-block mx-auto img-fluid mb-4" src={tecnojimp} alt="Mundo Tech" />
-            <h1 className="display-5 fw-bold">¡Ven por tu promo!</h1>
+            <h1 className="display-5 fw-bold">¡Veni por tu promo!</h1>
             <div className="col-lg-6 mx-auto">
               <p className="lead mb-4">¡Bienvenidos a nuestra tienda de teléfonos y tecnología! Somos un equipo apasionado por la tecnología y nos encanta ayudar a nuestros clientes a encontrar el dispositivo perfecto que se ajuste a sus necesidades y presupuesto.</p>
               <div className="d-grid gap-2 d-sm-flex justify-content-sm-center">
@@ -73,7 +73,7 @@ function Inicio() {
                 <img src={tecnojimp} className="d-block mx-lg-auto img-fluid" alt="Pedí Online" width={700} height={500} loading="lazy" />
               </div>
               <div className="col-lg-6">
-                <h1 className="display-5 fw-bold lh-1 mb-3">¡Ven por tu promo!</h1>
+                <h1 className="display-5 fw-bold lh-1 mb-3">¡Veni por tu promo!</h1>
                 <p className="lead">¡Bienvenidos a nuestra tienda de teléfonos y tecnología! Somos un equipo apasionado por la tecnología y nos encanta ayudar a nuestros clientes a encontrar el dispositivo perfecto que se ajuste a sus necesidades y presupuesto.</p>
                 <div className="d-grid gap-2 d-md-flex justify-content-md-start">
                   <Link to="/"><button type="button" className="btn btn-primary btn-lg px-4 me-md-2">Menú</button></Link>

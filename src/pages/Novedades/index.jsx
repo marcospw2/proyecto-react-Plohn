@@ -23,7 +23,7 @@ function Servicios() {
           {/* Para mobile */}
           <div className="px-4 py-2 my-5 text-center d-lg-none d-xl-none">
             <img className="d-block mx-auto img-fluid mb-4 rounded" src={servicioscta1} alt="Renueva" />
-            <h1 className="display-5 fw-bold">¡Renueva tu Smartphone!</h1>
+            <h1 className="display-5 fw-bold">¡Renova tu Smartphone!</h1>
             <div className="col-lg-6 mx-auto">
               <p className="lead mb-4">¡Es hora de renovar tu smartphone y darle a tu vida tecnológica un nuevo impulso! Descubre nuestra amplia selección de smartphones de última generación y encuentra el dispositivo perfecto que se adapte a tus necesidades y estilo de vida. ¡No esperes más para actualizar tu tecnología y estar siempre conectado!</p>
               <div className="d-grid gap-2 d-sm-flex justify-content-sm-center">
@@ -40,7 +40,7 @@ function Servicios() {
                 <img src={servicioscta1} className="d-block mx-lg-auto img-fluid rounded" alt="Servicios" width={700} height={500} loading="lazy" />
               </div>
               <div className="col-lg-6">
-                <h1 className="display-5 fw-bold lh-1 mb-3">¡Renueva tu Smartphone!</h1>
+                <h1 className="display-5 fw-bold lh-1 mb-3">¡Renova tu Smartphone!</h1>
                 <p className="lead">¡Es hora de renovar tu smartphone y darle a tu vida tecnológica un nuevo impulso! Descubre nuestra amplia selección de smartphones de última generación y encuentra el dispositivo perfecto que se adapte a tus necesidades y estilo de vida. ¡No esperes más para actualizar tu tecnología y estar siempre conectado!</p>
                 <div className="d-grid gap-2 d-md-flex justify-content-md-start">
                   <a href='https://api.whatsapp.com/send?phone=%2B5491164242056&text=Hola%2C+estoy+interesado+en+tus+productos%21

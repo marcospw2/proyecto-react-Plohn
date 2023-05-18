@@ -1,17 +1,17 @@
 .bg-custom {
-  background-color: #0553f0;
+  background-color: #5a5d64;
 }
 
 .bg-custom2 {
-  background-color: #007d15;
+  background-color: #3e7c49;
 }
 
 .btn-custom {
-  background-color: #ff8800;
+  background-color: #383838;
   color: #ffffff;
 }
 
 .btn-custom:hover {
-  background-color: #ff7300;
+  background-color: #ffa860;
   color: #ffffff;
 }

@@ -3,7 +3,7 @@ import './Contacto.css';
 import '../../assets/css/animaciones.css'
 
 function Contacto() {
-  document.title = 'Markitos Ingenieria - Contacto';
+  document.title = 'Electronica Markitos  - Contacto';
   return (
     <section className="slide-in-fwd-center">
       {/* Formulario de contacto - no funcional basado en https://www.freecontactform.com/form-guides/html-email-form*/}
@@ -13,7 +13,7 @@ function Contacto() {
             <h3 className="mb-2 text-white">Info</h3>
             <div className="info text-light .fs-6">
               Ada Elflein 4040, La Lucila, Vicente Lopez, Argentina.
-              <p>info@markitosingenieria.com</p>
+              <p>info@electromarkitos.com</p>
               Telefono:
               +5491164242056
               <div className="social-icons">
