@@ -9,13 +9,13 @@ function ItemList({ items }) {
 
   return (
     <>
-    { items.map(thisitem => {
-      return (
-  <Container key={thisitem.id}>
-  <Item picture={thisitem.picture} category={thisitem.category} stock={thisitem.stock} item={thisitem.id} name={thisitem.name} description={thisitem.description} price={thisitem.price}/>
-  </Container>
-      )
-    })}
+      {items.map(thisitem => {
+        return (
+          <Container key={thisitem.id}>
+            <Item picture={thisitem.picture} category={thisitem.category} stock={thisitem.stock} item={thisitem.id} name={thisitem.name} description={thisitem.description} price={thisitem.price} />
+          </Container>
+        )
+      })}
     </>
   )
 }
